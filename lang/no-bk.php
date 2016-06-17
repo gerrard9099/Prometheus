@@ -25,7 +25,7 @@
 		// Navigation bar
 		"home" => "Hjem",
 		"store" => "Butikk",
-		"buy_credits" => "Kjøp credits",
+		"buy_credits" => "Kjøp 'credits'",
 		"raffles" => "Loddtrekning",
 		"profile" => "Profil",
 		"support" => "Support",
@@ -41,7 +41,7 @@
 
 		// Frontpage
 		"welcome" => "Velkommen - Logg inn",
-		"welcome_text" => "Logg inn via Steam for å bruke vår enkele donasjons portal.",
+		"welcome_text" => "Logg inn via Steam for å bruke vår enkle donasjons portal.",
 
 		// News
 		"news" => "Nyheter",
@@ -60,7 +60,7 @@
 		"permanent" => "Permanent",
 		"non_permanent" => "Ikke Permanent",
 
-		"select_credit" => "Velg Credit Pakke",
+		"select_credit" => "Velg 'Credit' Pakke",
 		"select_raffle" => "Velg lodd Pakke",
 		"global_packages" => "Globale Pakker",
 
@@ -184,7 +184,7 @@
 		"sale" => "Salg",
 		"transactions" => "Transaksjoner",
 		"users" => "Brukere",
-		"logs" => "Logger",
+		"logs" => "Logg",
 		"update_sql" => "Oppdater SQL",
 		"other_features" => "Andre Funksjoner",
 
@@ -252,7 +252,7 @@
 		"profile_updated" => "Profilen din har blitt oppdatert.",
 		"payment_failed" => "Betalingsfeil!",
 		"check_credits" => "Vennligst sjekk at du har nok credits!",
-		"not_authorised" => "Du har ikke dagang til å se denne siden. Logg inn først!",
+		"not_authorised" => "Du har ikke adgang til å se denne siden. Logg inn først!",
 
 		/**
 		 * New in 1.5
@@ -265,11 +265,11 @@
 		"payment_gateways" => "Betalingsportaler",
 		"advanced" => "Avansert",
 		"no_servers" => "Ingen servere tilgjengelig.",
-		"entries" => "entries",
+		"entries" => "Entries",
 		"you_can_enter" => "Du kan kjøpe",
 		"times_more" => "fler(e) lodd",
-		"dashboard_creditsrevenue" => "Denne grafen sammenlikner credits og penger, selvom credits kan bare kjøpes med penger. (Credits = <font color='#9c9c9c'><b>Grå</b></font>, Penger = <font color='#c10000'><b>Rød</b></font>)",
-		"pkg_discounted" => "Du har rabbat på denne pakken siden du eier",
+		"dashboard_creditsrevenue" => "Denne grafen sammenligner credits og penger, selvom credits kan bare kjøpes med penger. (Credits = <font color='#9c9c9c'><b>Grå</b></font>, Penger = <font color='#c10000'><b>Rød</b></font>)",
+		"pkg_discounted" => "Du har rabatt på denne pakken siden du eier",
 
 		"compatible_text" => "Hvis du eier denne pakken, kan du ikke få pakkene valgt nedenfor",
 		"not_compatible" => "Ikke kompatibel med",
@@ -314,8 +314,8 @@
 		/**
 		 * New in 1.5.0.8
 		 */
-		"top_donators" => "Topp 3 donators",
-		"top_none" => "Det er ingen topp donators",
+		"top_donators" => "Topp 3 donerere",
+		"top_none" => "Det er ingen topp donerere",
 
 		/**
 		 * New in 1.5.0.9
@@ -522,8 +522,8 @@
 		"your_spendings" => "Ditt forbruk de siste 5 månedene",
 		"spendings_currency" => "Dette forbruket er vist i nettsidens hovedvaluta [$1]. Denne grafen sammenlikner penger brukt med credits brukt. (Credits = <font color='#9c9c9c'><b>Gray</b></font>, Penger = <font color='#c10000'><b>Red</b></font>)",
 	
-		"spent_total" => "TOTALT BRUKT",
-		"spent_week" => "BRUKT DENNE UKA",
+		"spent_total" => "TOTAL BRUKT",
+		"spent_week" => "BRUKT DENNE UKEN",
 		"spent_month" => "BRUKT DENNE MÅNEDEN",
 
 		/**
@@ -544,7 +544,7 @@
 		"edit_cou" => "Rediger kupong",
 		"select_cou" => "Velg kupong",
 		"sure_cou" => "Er du sikker på at du vil slette denne kupongen?",
-		"coupon_text" => "Hvis du har en kupongkode så kan du bruke den her :)",
+		"coupon_text" => "Hvis du har en kupongkode så kan du bruke den her :-)",
 	);
 
 ?>
